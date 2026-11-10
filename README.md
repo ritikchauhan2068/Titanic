@@ -2,6 +2,9 @@
 
 A machine learning project that explores the Titanic passenger dataset, compares classification algorithms, and provides an interactive web application for predicting passenger survival.
 
+Project Dashboard checkout: [Live](https://titanic-fbrunjuzvkrjf9rtwmh6rx.streamlit.app/)
+
+
 ## 📌 Project Overview
 
 The objective is to develop a binary classification model that predicts whether a passenger survived the Titanic disaster based on passenger information.
@@ -231,7 +234,7 @@ GitHub: [@ritikchauhan2068](https://github.com/ritikchauhan2068)
 
 Project: [Titanic Survival Prediction](https://github.com/ritikchauhan2068/Titanic)
 
-Project Dashboard checkout: [Live](https://titanic-fbrunjuzvkrjf9rtwmh6rx.streamlit.app/)
+
 
 ---
 
